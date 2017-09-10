@@ -62,6 +62,17 @@ sudo  rm -rf dirName
 ```bash
  exit
 ```
+
++ Connaitre l'espace disque restant
+```bash
+ df -h
+```
+
++ Localiser la plupart des fichiers de log du system
+```bash
+ sudo locate *.log*
+```
+
 ***
 
 ### Utilisateur & groupe
