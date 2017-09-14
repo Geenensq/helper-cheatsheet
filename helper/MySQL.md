@@ -37,7 +37,6 @@ perl mysqltuner.pl
 ```
 
 + Mytop
-+
 surveillance de MySQL en temps réel
 ```bash
 sudo apt-get install mytop
